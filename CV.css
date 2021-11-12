@@ -1,0 +1,199 @@
+#utama{
+	width: 100%;
+	height: 100%;
+	background-color: #606C38;
+	margin: 0px;
+	float: left;
+	content: width: device-width, initial-scale: 1;
+}
+header{
+	width: 100%;
+	height:60px;
+	background-color: #606C38;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	float: left;
+}
+body{
+	font-family: "Bold 800","Poppins", sans-serif;
+	font-size: 15px;
+	color: #283618;	
+	background-color: #283618;
+	margin: 0 auto;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	float: left;
+	font-size: 13px;
+	color: #FEFAE0;
+	background-color: #606C38;
+	border: none;
+}
+li:hover{
+	color: #FEFAE0;
+	background-color: #283618;
+}
+li:active{
+	color: #283618;
+	background-color: #FEFAE0;
+}
+li a{
+	text-decoration: none;
+	font-size: 13px;
+	padding: 10px 20px;
+	color: #FEFAE0;
+	display: block;
+}
+li a:active{
+	color: #283618;
+}
+a{
+    display: block;
+}
+#tengah{
+	float: left;
+	width: 100%;
+	height: 550px;
+}
+.ket{
+	width: 100%;
+	height: 60px;
+	float: left;
+}
+#bawah{
+	height: 2000px;
+	background-image: linear-gradient(#FEFAE0,#DDA15E);
+	float: left;
+}
+tr{
+	height: 40px;
+	word-wrap: wrap text;
+}
+#judul{
+	width: 100%;
+	height: 100px;
+	margin-top: 80px;
+	text-align: center;
+	float: left;
+}
+#kiri{
+	float: left;
+	width: 45%;
+	height: 450px;
+	text-align: right;
+}
+#kanan{
+	float: left;
+	width: 55%;
+	height: 450px;
+}
+img{
+	margin right: 20px;
+}
+.kirmar{
+	margin-right: 50px;
+}
+.spasi{
+	line-height: 30px;
+	margin-top: 10px;
+}
+#end{
+	width: 100%;
+	height: 750px;
+	background-color: #DDA15E;
+	float: left;
+}
+#awal{
+	text-transform: uppercase;
+	float: left;
+	width: 100%;
+}
+#tentang{
+	text-transform: uppercase;
+	float: left;
+}
+#pendidikan{
+	text-transform: uppercase;
+	float: left;
+}
+#skill{
+	text-transform: uppercase;
+	float: left;
+}
+#suka{
+	text-transform: uppercase;
+	float: left;
+}
+#kontak{
+	text-transform: uppercase;
+	float: left;
+}
+h1, h3{
+	text-align: center;
+	padding-top: 100px;
+}
+.satu{
+	width: 100%;
+	height: 450px;
+	float: left;
+}
+.dua{
+	width: 100%;
+	height: 700px;
+	float: left;
+}
+label{
+	color: #283618;
+	line-height: 3;
+	margin-right: 50px;
+}
+input, textarea{
+	background-color: #FEFAE0;
+	border: none;
+	border-color: none;
+	border-radius: 3;
+	outline: none;
+	float: left;
+}
+input{
+	height: 35px;
+}
+button{
+	width: 100px;
+	height: 40px;
+	color: #283618;
+	background-color: #FEFAE0;
+	border-radius: 3;
+	font-size: 30;
+	border: none;
+	font-family: "Bold 800","Poppins", sans-serif;
+	position: right;
+}
+button:hover{
+	color: white;
+	background-color: #283618;
+}
+button:active{
+	color: #283618;
+	background-color: #FEFAE0;
+}
+
+#kic{
+	width: 30%;
+	height: 450px;
+	text-align: right;
+	float: left;
+}
+#kac{
+	width: 70%;
+	height: 500px;
+	float: left;
+}
+.lh{
+	line-height: 3;
+	word-wrap: all;
+	word-break: 3;
+}
